@@ -1,0 +1,22 @@
+{
+  "name": "larabook",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anheru88/larabook.git"
+  },
+  "author": "Anheru88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anheru88/larabook/issues"
+  },
+  "homepage": "https://github.com/anheru88/larabook",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-sass": "^0.7.3",
+    "gulp-uglifyjs": "^0.4.2"
+  }
+}
