@@ -1,10 +1,11 @@
 .DS_Store
 .env.*.php
 .env.php
+.idea/
 /bootstrap/compiled.php
 /node_modules
-/vendor
 /public/css/main.css
+/vendor
 composer.lock
 composer.phar
 Thumbs.db
