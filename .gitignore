@@ -9,3 +9,5 @@
 composer.lock
 composer.phar
 Thumbs.db
+tests/_output/*
+tests/_output/*
