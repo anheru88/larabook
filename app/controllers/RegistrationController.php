@@ -9,7 +9,7 @@ class RegistrationController extends \BaseController {
 	 */
 	public function create()
 	{
-		return View::make('registration.crete');
+		return View::make('registration.create');
 	}
 
 }
