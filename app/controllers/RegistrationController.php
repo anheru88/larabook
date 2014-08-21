@@ -19,6 +19,11 @@ class RegistrationController extends \BaseController {
 	 */
 	public function store()
 	{
+
+		User::create(
+			Input::only('username', 'email', 'password')
+		);
+
 		return Redirect::home();
 	}
 }
